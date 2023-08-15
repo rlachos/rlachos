@@ -1,7 +1,7 @@
 ### Hi there, I'm Rossio 👋
 - 🚀 I'm a full-stack web developer based on Massachusetts, United States
-- 😍 My dream is to teach programming to other women.
-- 💖 I .
+- 👩‍💻 All of my projects are available at [rossiolachos.com](https://www.rossiolachos.com)
+- 💖 I love my two children.
 
 ##  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlachos&layout=compact)
